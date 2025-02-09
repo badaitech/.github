@@ -15,7 +15,7 @@ Useful links:
 - [`BAD AI Website`](https://badai.io)
 - [`BAD AI Application`](https://app.badai.io) - currently supports ChainGraph v1 only. The v2 integration is in progress.
 - [`BAD AI User Documentation`](https://bad-ai.gitbook.io/bad-ai) - currently covers the released app with ChainGraph v1.
-- [`ChainGraph v2 Developer Docuemntation`](https://github.com/badaitech/badai-docs)
-- [`ChainGraph v2 Dev Chat`](https://t.me/+xgGIc55LRHJmZTY0) for contributors.
+- [`ChainGraph v2 Developer Documentation`](https://github.com/badaitech/badai-docs)
+- [`Contact Email`](support@badcoin.im)
 
 The ChainGraph v2, aimed to be open-sourced is in close beta now, contact us if you wish to start contributing early.
